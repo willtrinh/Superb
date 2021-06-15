@@ -2,7 +2,7 @@
 
 ![Superb gif](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/Superb.gif)
 
-An e-commerce web app that let the users view a product details page. We were given an API that contained all the data that we need, but the product and structure of the web app is up to us to decided.
+An e-commerce web app that lets the users view a product details page. We were given an API that contained all the data that we need, but the product and structure of the web app are up to us to decide.
 
 One constraint of the project was that we must limit the use of external libraries to the bare minimum and implement everything from scratch.
 
@@ -14,26 +14,26 @@ The web app composed of three main modules:
 
 # Product Demo
 
-Wireframe
+## Wireframe
 ![Wireframe](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/wireframe.png)
 
-Product Overview
+## Product Overview
 ![Product Overview](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/Product%20overview.png)
 
-Image Carousel
+## Image Carousel
 ![Image Carousel](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/carousel.gif)
 ![Image Carousel](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/Carousel.png)
 
-Style Selector & Quantity Selector
+## Style Selector & Quantity Selector
 ![Selector](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/selector.gif)
 
-Add To Bag
+## Add To Bag
 ![Addtobag](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/addtobag.gif)
 
-Dark mode
+##Dark mode
 ![Darkmode](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/Dark%20mode.png)
 
-Lighthouse Audit Score
+## Lighthouse Audit Score
 ![Lighthouse](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/Lighthouse%20score.png)
 
 # Technologies Used
