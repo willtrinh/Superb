@@ -30,7 +30,7 @@ The web app composed of three main modules:
 ## Add To Bag
 ![Addtobag](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/addtobag.gif)
 
-##Dark mode
+## Dark mode
 ![Darkmode](https://raw.githubusercontent.com/willtrinh/Superb/master/assets/Dark%20mode.png)
 
 ## Lighthouse Audit Score
